@@ -1,2 +1,2 @@
 # PMFS_SVM
-Personal finance management is the key to achieving your financial goals and securing your long-term financial well-being.
+Personal finance management is the key to achieving your financial goals and securing your long-term financial well-being. PFMS is meant to use best practices and use the most accurate prediction algorithms to apply the essential strategies to master your personal finances and be able to work with lot of parameters and still deliver a good prediction it must be faster and most accurate as possible. SVM has the ability do this effectively, so we use a dataset which has lot of personal financial attributes and test how accurate a SVM algorithm is in dealing with it
